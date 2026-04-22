@@ -1,0 +1,1 @@
+# my-fx-trading-app
